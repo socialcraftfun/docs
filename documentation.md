@@ -4,3 +4,5 @@
     - [Команды](/docs/commands)
     - [Правила](/docs/rules)
     - [Конфиги сервера](/docs/configs)
+- ## Игра
+    - [Приватизация](/docs/region)
